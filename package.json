@@ -1,0 +1,22 @@
+{
+  "name": "pipeline-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schneider-aidan/pipeline-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/schneider-aidan/pipeline-practice/issues"
+  },
+  "homepage": "https://github.com/schneider-aidan/pipeline-practice#readme"
+}
